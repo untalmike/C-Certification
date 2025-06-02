@@ -1,0 +1,14 @@
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.AssemblyInfoInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.AssemblyInfo.cs
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.csproj.CoreCompileInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\bin\Debug\net10.0\BloquesDeCodigo.exe
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\bin\Debug\net10.0\BloquesDeCodigo.deps.json
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\bin\Debug\net10.0\BloquesDeCodigo.runtimeconfig.json
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\bin\Debug\net10.0\BloquesDeCodigo.dll
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\bin\Debug\net10.0\BloquesDeCodigo.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.dll
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\refint\BloquesDeCodigo.dll
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\BloquesDeCodigo.genruntimeconfig.cache
+C:\wamp64\www\C# Certification\CsharpProjects\BloquesDeCodigo\obj\Debug\net10.0\ref\BloquesDeCodigo.dll

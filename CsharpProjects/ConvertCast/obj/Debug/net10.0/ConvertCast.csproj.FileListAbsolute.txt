@@ -1,0 +1,14 @@
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.AssemblyInfoInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.AssemblyInfo.cs
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.csproj.CoreCompileInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\bin\Debug\net10.0\ConvertCast.exe
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\bin\Debug\net10.0\ConvertCast.deps.json
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\bin\Debug\net10.0\ConvertCast.runtimeconfig.json
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\bin\Debug\net10.0\ConvertCast.dll
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\bin\Debug\net10.0\ConvertCast.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.dll
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\refint\ConvertCast.dll
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ConvertCast.genruntimeconfig.cache
+C:\wamp64\www\C# Certification\CsharpProjects\ConvertCast\obj\Debug\net10.0\ref\ConvertCast.dll
