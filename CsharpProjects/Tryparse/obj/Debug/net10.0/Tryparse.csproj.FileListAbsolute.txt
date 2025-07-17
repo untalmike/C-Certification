@@ -1,0 +1,15 @@
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.AssemblyInfoInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.AssemblyInfo.cs
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.csproj.CoreCompileInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.sourcelink.json
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\bin\Debug\net10.0\Tryparse.exe
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\bin\Debug\net10.0\Tryparse.deps.json
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\bin\Debug\net10.0\Tryparse.runtimeconfig.json
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\bin\Debug\net10.0\Tryparse.dll
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\bin\Debug\net10.0\Tryparse.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.dll
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\refint\Tryparse.dll
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\Tryparse.genruntimeconfig.cache
+C:\wamp64\www\C# Certification\CsharpProjects\Tryparse\obj\Debug\net10.0\ref\Tryparse.dll

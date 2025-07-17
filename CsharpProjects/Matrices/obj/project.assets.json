@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\wamp64\\www\\C# Certification\\CsharpProjects\\Tryparse\\Tryparse.csproj",
-      "projectName": "Tryparse",
-      "projectPath": "C:\\wamp64\\www\\C# Certification\\CsharpProjects\\Tryparse\\Tryparse.csproj",
+      "projectUniqueName": "C:\\wamp64\\www\\C# Certification\\CsharpProjects\\Matrices\\Matrices.csproj",
+      "projectName": "Matrices",
+      "projectPath": "C:\\wamp64\\www\\C# Certification\\CsharpProjects\\Matrices\\Matrices.csproj",
       "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-      "outputPath": "C:\\wamp64\\www\\C# Certification\\CsharpProjects\\Tryparse\\obj\\",
+      "outputPath": "C:\\wamp64\\www\\C# Certification\\CsharpProjects\\Matrices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config"

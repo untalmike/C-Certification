@@ -1,0 +1,15 @@
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\bin\Debug\net10.0\Matrices.exe
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\bin\Debug\net10.0\Matrices.deps.json
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\bin\Debug\net10.0\Matrices.runtimeconfig.json
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\bin\Debug\net10.0\Matrices.dll
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\bin\Debug\net10.0\Matrices.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.AssemblyInfoInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.AssemblyInfo.cs
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.csproj.CoreCompileInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.sourcelink.json
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.dll
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\refint\Matrices.dll
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\Matrices.genruntimeconfig.cache
+C:\wamp64\www\C# Certification\CsharpProjects\Matrices\obj\Debug\net10.0\ref\Matrices.dll
