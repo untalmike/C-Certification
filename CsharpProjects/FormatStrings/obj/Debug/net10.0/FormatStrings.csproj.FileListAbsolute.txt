@@ -1,0 +1,15 @@
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\bin\Debug\net10.0\FormatStrings.exe
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\bin\Debug\net10.0\FormatStrings.deps.json
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\bin\Debug\net10.0\FormatStrings.runtimeconfig.json
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\bin\Debug\net10.0\FormatStrings.dll
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\bin\Debug\net10.0\FormatStrings.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.AssemblyInfoInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.AssemblyInfo.cs
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.csproj.CoreCompileInputs.cache
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.sourcelink.json
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.dll
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\refint\FormatStrings.dll
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.pdb
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\FormatStrings.genruntimeconfig.cache
+C:\wamp64\www\C# Certification\CsharpProjects\FormatStrings\obj\Debug\net10.0\ref\FormatStrings.dll
